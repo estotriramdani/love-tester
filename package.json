@@ -1,0 +1,14 @@
+{
+  "name": "love-tester",
+  "version": "1.0.1",
+  "description": "love tester application",
+  "main": "index.js",
+  "author": "Esto Triramdani N",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
